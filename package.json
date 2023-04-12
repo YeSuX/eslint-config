@@ -1,0 +1,15 @@
+{
+  "name": "@suxiong/eslint-config-monorepo",
+  "version": "1.0.0",
+  "description": "suxiong's eslint perset.",
+  "keywords": [
+    "eslint-config",
+    "suxiong"
+  ],
+  "author": "suxiong <suxiong1998@gmail.com> (https://github.com/YeSuX)",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.38.0"
+  },
+  "packageManager": "pnpm@8.1.0"
+}
