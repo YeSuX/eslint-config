@@ -125,4 +125,4 @@ Or you can always fork this repo and make your own.
 
 ## License
 
-[MIT](notion://www.notion.so/suxiong/LICENSE) License © 2019-PRESENT [Suxiong](https://github.com/YeSuX)
+[MIT](notion://www.notion.so/suxiong/LICENSE) License © 2023-PRESENT [Suxiong](https://github.com/YeSuX)

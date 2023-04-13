@@ -125,4 +125,4 @@ npm i -D lint-staged simple-git-hooks
 
 ## License
 
-[MIT](notion://www.notion.so/suxiong/LICENSE) License © 2019-PRESENT [Suxiong](https://github.com/YeSuX)
+[MIT](notion://www.notion.so/suxiong/LICENSE) License © 2023-PRESENT [Suxiong](https://github.com/YeSuX)
