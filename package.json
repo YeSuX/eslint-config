@@ -5,6 +5,7 @@
   "description": "suxiong's eslint perset.",
   "author": "suxiong <suxiong1998@gmail.com> (https://github.com/YeSuX)",
   "license": "MIT",
+  "private": true,
   "keywords": [
     "eslint-config",
     "suxiong"
