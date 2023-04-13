@@ -12,6 +12,9 @@
   "files": [
     "*.js"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {},
   "dependencies": {
     "eslint-plugin-eslint-comments": "^3.2.0",

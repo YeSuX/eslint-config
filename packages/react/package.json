@@ -13,6 +13,9 @@
   "files": [
     "index.js"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {},
   "dependencies": {
     "@suxiong/eslint-config-ts": "workspace:^",
