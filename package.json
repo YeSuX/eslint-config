@@ -1,11 +1,11 @@
 {
   "name": "@suxiong/eslint-config-monorepo",
   "version": "1.0.0",
+  "private": true,
   "packageManager": "pnpm@8.1.0",
   "description": "suxiong's eslint perset.",
   "author": "suxiong <suxiong1998@gmail.com> (https://github.com/YeSuX)",
   "license": "MIT",
-  "private": true,
   "keywords": [
     "eslint-config",
     "suxiong"
@@ -13,7 +13,7 @@
   "scripts": {
     "version": "changeset version",
     "publish": "changeset publish",
-    "lint": "eslint ."
+    "lint": "eslint . --fix"
   },
   "devDependencies": {
     "@changesets/cli": "^2.26.1",
