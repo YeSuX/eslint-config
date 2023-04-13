@@ -1,5 +1,5 @@
 {
-  "name": "@suxiong/eslint-config",
+  "name": "@suxiong/eslint-config-vue",
   "version": "1.0.0",
   "description": "suxiong's eslint config persets.",
   "author": "suxiong <suxiong1998@gmail.com> (https://github.com/YeSuX)",
@@ -15,6 +15,9 @@
   ],
   "scripts": {},
   "dependencies": {
-    "@suxiong/eslint-config-vue": "workspace:*"
+    "@suxiong/eslint-config-basic": "workspace:*",
+    "@suxiong/eslint-config-ts": "workspace:*",
+    "eslint-plugin-vue": "^9.10.0",
+    "local-pkg": "^0.4.3"
   }
 }
