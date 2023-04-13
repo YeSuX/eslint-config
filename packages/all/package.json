@@ -1,0 +1,20 @@
+{
+  "name": "@suxiong/eslint-config",
+  "version": "1.0.0",
+  "description": "suxiong's eslint config persets.",
+  "author": "suxiong <suxiong1998@gmail.com> (https://github.com/YeSuX)",
+  "license": "MIT",
+  "homepage": "https://github.com/YeSuX/eslint-config",
+  "keywords": [
+    "suxiong",
+    "eslint-config"
+  ],
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {},
+  "dependencies": {
+    "@suxiong/eslint-config-basic": "workspace:^"
+  }
+}
